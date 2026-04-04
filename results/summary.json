@@ -1,0 +1,39 @@
+{
+  "rows": [
+    {
+      "language": "hinglish",
+      "n_clips": 5,
+      "sarvam_wer": 0.22523809523809524,
+      "whisper_wer": 0.13,
+      "better_model": "whisper"
+    },
+    {
+      "language": "benglish",
+      "n_clips": 5,
+      "sarvam_wer": 0.6833333333333332,
+      "whisper_wer": 0.7499999999999999,
+      "better_model": "sarvam"
+    },
+    {
+      "language": "tanglish",
+      "n_clips": 5,
+      "sarvam_wer": 0.7,
+      "whisper_wer": 0.9,
+      "better_model": "sarvam"
+    },
+    {
+      "language": "tenglish",
+      "n_clips": 5,
+      "sarvam_wer": 0.64,
+      "whisper_wer": 0.9,
+      "better_model": "sarvam"
+    },
+    {
+      "language": "odiaenglish",
+      "n_clips": 5,
+      "sarvam_wer": 1.19,
+      "whisper_wer": 1.05,
+      "better_model": "whisper"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+results/sarvam/
+results/whisper/
+benchmark/data/
+*.srt
+*.wav
+*.mp4
+*.mp3

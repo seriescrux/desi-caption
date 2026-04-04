@@ -1,0 +1,34 @@
+# DesiCaptions — Python dependencies
+# Install: pip install -r requirements.txt
+
+# Core ASR
+openai-whisper          # Local ASR (runs on CPU/GPU)
+# Note: Whisper requires ffmpeg installed on system
+
+# Sarvam AI — via requests (no special package)
+requests
+
+# Google Gemini
+google-generativeai>=0.5.0
+
+# Audio processing
+librosa
+pydub
+noisereduce
+ffmpeg-python
+
+# Web framework
+fastapi>=0.110.0
+uvicorn[standard]
+python-multipart       # For file uploads in FastAPI
+
+# Frontend
+streamlit>=1.35.0
+
+# Benchmarking
+jiwer>=3.0.0
+matplotlib
+numpy
+
+# Utilities
+python-dotenv
