@@ -11,3 +11,7 @@ benchmark/data/
 *.wav
 *.mp4
 *.mp3
+
+*.md
+*.txt
+.env.example
