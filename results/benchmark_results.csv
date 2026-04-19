@@ -1,0 +1,6 @@
+Language,Sarvam WER (%),Whisper WER (%),Winner
+Hinglish,4.9,26.4,Sarvam AI
+Benglish,7.5,60.0,Sarvam AI
+Tanglish,15.7,48.2,Sarvam AI
+Tenglish,15.3,69.7,Sarvam AI
+Odia+Eng,7.3,116.3,Sarvam AI
