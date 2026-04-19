@@ -5,7 +5,6 @@
 ### AI-Powered Subtitle Generator for Indian Content Creators
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-deployed-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-Saaras_v3-orange)](https://sarvam.ai)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper_large--v3-412991?logo=openai)](https://openai.com/research/whisper)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -14,7 +13,7 @@
 
 *Code-mixed speech is not an error — it's a cultural identity.*
 
-[Live Demo](#demo) • [Benchmarks](#-benchmarking) • [Installation](#-installation) • [Usage](#-usage)
+[Benchmarks](#-benchmarking) • [Installation](#-installation) • [Usage](#-usage)
 
 </div>
 
@@ -142,11 +141,9 @@ Three output formats. Zero cost. Fully accessible.
 
 ---
 
-## 🚀 Demo
+## 💬 Example Output
 
-> 🔗 **Live App:** [desicaptions.streamlit.app](https://desicaptions.streamlit.app) *(update with your deployed link)*
-
-**Example — Gemini Desi Style transformation:**
+**Gemini Desi Style transformation:**
 
 ```
 ❌ Raw ASR Output:
